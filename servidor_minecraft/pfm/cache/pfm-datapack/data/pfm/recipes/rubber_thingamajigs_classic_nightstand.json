@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubber_thingamajigs_classic_nightstand"
+  }
+}

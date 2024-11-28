@@ -1,0 +1,33 @@
+
+[maxdurability]
+	#The durability the gun starts with and the max it can repair to
+	maxdurability = 2000
+
+[gunsbreak]
+	#Do guns break or not
+	gunsbreak = false
+
+[jamchance]
+	#Set to zero to stop jamming entirely
+	jamchance = 20
+
+[swampmodifier]
+	#Jam chance increase, random value from 1 to the config value (increased number = lower multiplier)
+	swampmodifier = 2
+
+[junglemodifier]
+	#Jam chance increase, random value from 1 to the config value (increased number = lower multiplier)
+	junglemodifier = 3
+
+[watermodifier]
+	#Jam chance increase, random value from 1 to the config value (increased number = lower multiplier)
+	watermodifier = 1
+
+[desertmodifier]
+	#Jam chance increase, random value from 1 to the config value (increased number = lower multiplier)
+	desertmodifier = 4
+
+[coldmodifier]
+	#Jam chance increase, random value from 1 to the config value (increased number = lower multiplier)
+	coldmodifier = 4
+

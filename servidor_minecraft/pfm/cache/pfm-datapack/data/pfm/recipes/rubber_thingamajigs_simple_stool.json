@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubber_thingamajigs_simple_stool"
+  }
+}

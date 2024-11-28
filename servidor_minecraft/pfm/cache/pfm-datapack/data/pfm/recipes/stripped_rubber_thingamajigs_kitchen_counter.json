@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_rubber_thingamajigs_kitchen_counter"
+  }
+}

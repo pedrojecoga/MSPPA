@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f8c7da6560fd3def8da30517e42b1b37"
+	name: "MK0#f8c7da65"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

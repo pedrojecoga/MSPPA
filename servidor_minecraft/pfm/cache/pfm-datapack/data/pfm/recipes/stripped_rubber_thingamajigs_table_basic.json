@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:rubber_planks"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    },
+    {
+      "item": "thingamajigs:stripped_rubber_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_rubber_thingamajigs_table_basic"
+  }
+}

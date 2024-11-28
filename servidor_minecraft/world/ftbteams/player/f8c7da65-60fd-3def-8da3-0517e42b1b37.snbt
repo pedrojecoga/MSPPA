@@ -1,0 +1,17 @@
+{
+	id: "f8c7da65-60fd-3def-8da3-0517e42b1b37"
+	type: "player"
+	player_name: "MK0"
+	ranks: {
+		f8c7da65-60fd-3def-8da3-0517e42b1b37: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MK0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

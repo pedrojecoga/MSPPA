@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "thingamajigs:rubber_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubber_thingamajigs_log_stool"
+  }
+}

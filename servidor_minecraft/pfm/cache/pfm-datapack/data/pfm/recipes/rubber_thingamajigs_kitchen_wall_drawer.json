@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "thingamajigs:rubber_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubber_thingamajigs_kitchen_wall_drawer"
+  }
+}
