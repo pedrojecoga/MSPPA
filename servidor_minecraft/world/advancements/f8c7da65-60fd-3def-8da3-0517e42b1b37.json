@@ -1884,15 +1884,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-11-27 04:11:24 +0000"
+    },
+    "done": true
+  },
   "zombiekit:we_union": {
     "criteria": {
       "we_union": "2024-11-27 04:17:38 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+  "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
-      "has_rotten_flesh": "2024-11-27 04:11:24 +0000"
+      "has_ingredient": "2024-11-28 21:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-28 21:58:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-11-28 21:58:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 21:58:36 +0000"
     },
     "done": true
   },
