@@ -1,0 +1,17 @@
+{
+	id: "35994d72-73d2-30ef-9d12-e33235f78035"
+	type: "player"
+	player_name: "Legoziz"
+	ranks: {
+		35994d72-73d2-30ef-9d12-e33235f78035: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Legoziz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF66"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
