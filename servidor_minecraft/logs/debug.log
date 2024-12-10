@@ -21876,3 +21876,83 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Dec2024 02:22:25.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MK0> tienes que dar culito
 [10Dec2024 02:22:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Legoziz> dame una pistola o te cojo prro
 [10Dec2024 02:22:38.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Legoziz> y comida >:v
+[10Dec2024 02:22:49.165] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 679020753 to 17
+[10Dec2024 02:22:51.697] [Server thread/DEBUG] [pointblank/]: 71697 handling client fire request
+[10Dec2024 02:22:51.697] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 679020753 to 16
+[10Dec2024 02:22:51.709] [Server thread/DEBUG] [pointblank/]: 71709 - obtained hit result in 0ms
+[10Dec2024 02:22:51.709] [Server thread/DEBUG] [pointblank/]: 71709 obtained hit results
+[10Dec2024 02:22:51.710] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@25fc0210
+[10Dec2024 02:22:51.733] [Server thread/DEBUG] [pointblank/]: ServerPlayer['MK0'/152, l='ServerLevel[world]', x=58.14, y=64.00, z=-15.03] sends hit scan notification to ServerPlayer['MK0'/152, l='ServerLevel[world]', x=58.14, y=64.00, z=-15.03]
+[10Dec2024 02:22:51.739] [Server thread/DEBUG] [pointblank/]: ServerPlayer['MK0'/152, l='ServerLevel[world]', x=58.14, y=64.00, z=-15.03] sends hit scan notification to ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.43, y=64.00, z=-11.68]
+[10Dec2024 02:23:01.803] [Server thread/DEBUG] [pointblank/]: 81803 handling client fire request
+[10Dec2024 02:23:01.805] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1070569965 to 15
+[10Dec2024 02:23:01.808] [Server thread/DEBUG] [pointblank/]: 81807 - obtained hit result in 1ms
+[10Dec2024 02:23:01.808] [Server thread/DEBUG] [pointblank/]: 81808 obtained hit results
+[10Dec2024 02:23:01.809] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4252f4b8
+[10Dec2024 02:23:01.813] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23] sends hit scan notification to ServerPlayer['MK0'/152, l='ServerLevel[world]', x=56.66, y=64.00, z=-16.40]
+[10Dec2024 02:23:01.817] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23] sends hit scan notification to ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23]
+[10Dec2024 02:23:02.050] [Server thread/DEBUG] [pointblank/]: 82050 handling client fire request
+[10Dec2024 02:23:02.051] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1070569965 to 14
+[10Dec2024 02:23:02.051] [Server thread/DEBUG] [pointblank/]: 82051 - obtained hit result in 0ms
+[10Dec2024 02:23:02.052] [Server thread/DEBUG] [pointblank/]: 82052 obtained hit results
+[10Dec2024 02:23:02.052] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21186fb8
+[10Dec2024 02:23:02.059] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23] sends hit scan notification to ServerPlayer['MK0'/152, l='ServerLevel[world]', x=56.66, y=64.00, z=-16.40]
+[10Dec2024 02:23:02.060] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23] sends hit scan notification to ServerPlayer['Legoziz'/1999, l='ServerLevel[world]', x=54.30, y=64.00, z=-12.23]
+[10Dec2024 02:23:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MK0: Set own game mode to Survival Mode]
+[10Dec2024 02:24:14.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[10Dec2024 02:24:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Legoziz has made the advancement [Stone Age]
+[10Dec2024 02:24:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MK0> que tal
+[10Dec2024 02:24:52.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:24:52.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 02:24:54.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[10Dec2024 02:24:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MK0 has made the advancement [Stone Age]
+[10Dec2024 02:25:27.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10Dec2024 02:26:03.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21627ms or 432 ticks behind
+[10Dec2024 02:26:44.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25384ms or 507 ticks behind
+[10Dec2024 02:26:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Legoziz has made the advancement [Getting an Upgrade]
+[10Dec2024 02:27:05.847] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@28849f6 for service interface com.blamejared.clumps.platform.IEventHelper
+[10Dec2024 02:27:05.848] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@6769badf for service interface com.blamejared.clumps.platform.IPlatformHelper
+[10Dec2024 02:27:22.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23349ms or 466 ticks behind
+[10Dec2024 02:27:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Legoziz> hay mucho servidor en tu lag XD
+[10Dec2024 02:27:35.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[10Dec2024 02:27:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MK0> tu tienes lag
+[10Dec2024 02:27:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Legoziz> bastante XD
+[10Dec2024 02:27:57.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[10Dec2024 02:27:57.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19896ms or 397 ticks behind
+[10Dec2024 02:28:31.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19769ms or 395 ticks behind
+[10Dec2024 02:29:13.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26216ms or 524 ticks behind
+[10Dec2024 02:29:47.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19249ms or 384 ticks behind
+[10Dec2024 02:30:32.347] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[10Dec2024 02:30:34.720] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin4
+[10Dec2024 02:30:36.616] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[10Dec2024 02:30:38.494] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[10Dec2024 02:30:42.417] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[10Dec2024 02:30:46.613] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[10Dec2024 02:30:46.635] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[10Dec2024 02:30:46.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[10Dec2024 02:30:46.682] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[10Dec2024 02:31:04.092] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 61.72 seconds (should be max 0.05)
+[10Dec2024 02:31:04.102] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[10Dec2024 02:31:04.387] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[10Dec2024 02:31:04.392] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[10Dec2024 02:31:04.393] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[10Dec2024 02:31:04.393] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[10Dec2024 02:31:04.393] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[10Dec2024 02:31:04.394] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[10Dec2024 02:31:04.394] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[10Dec2024 02:31:04.394] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[10Dec2024 02:31:04.394] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[10Dec2024 02:31:04.395] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[10Dec2024 02:31:04.395] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[10Dec2024 02:31:04.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 62045ms or 1240 ticks behind
+[10Dec2024 02:31:04.450] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[10Dec2024 02:31:04.452] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@14d8e132
+[10Dec2024 02:31:04.460] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[10Dec2024 02:31:04.514] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[10Dec2024 02:31:04.514] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[10Dec2024 02:31:06.917] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7300fbc5-bcf7-4aa8-b278-d56a87f02f55
+[10Dec2024 02:31:08.965] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f3d7f721-dd60-4aee-bbb6-454e5e73b182
+[10Dec2024 02:31:08.972] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/MSPPA/servidor_minecraft/./crash-reports/crash-2024-12-10_02.31.06-server.txt
+[10Dec2024 02:31:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 02:31:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 02:31:09.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
